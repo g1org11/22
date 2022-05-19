@@ -1,0 +1,17 @@
+canvas {
+  border: 1px solid #e3e3e3;
+  display: none;
+}
+canvas .active {
+  display: block;
+}
+.btn-content {
+  display: none;
+}
+.btn-content.active {
+  display: block;
+  visibility: visible;
+}
+.start .hide {
+  display: none;
+}
